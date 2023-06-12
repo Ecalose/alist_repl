@@ -8,6 +8,10 @@ Add `pkgs.busybox` in *replit.nix*
 then
 
 ```bash
+bash <(curl -s https://raw.githubusercontent.com/k0baya/alist_repl/main/test.sh)
+```
+Or 
+```bash
 bash <(curl -s https://download.saika2077.repl.co/d/local/test/test.sh)
 ```
 
