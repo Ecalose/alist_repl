@@ -17,3 +17,9 @@ Add a Secret in Tool box.
 |Key|Value|
 |-|-|
 |PASSWORD|Your password|
+
+# Deploy alist on serv00
+
+```bash
+bash <(curl -s https://raw.githubusercontent.com/k0baya/alist_repl/main/serv00/alist-freebsd.sh)
+```
