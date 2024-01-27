@@ -21,5 +21,5 @@ Add a Secret in Tool box.
 # Deploy alist on serv00
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/k0baya/alist_repl/main/serv00/alist-freebsd.sh)
+wget -O alist-freebsd.sh https://raw.githubusercontent.com/k0baya/alist_repl/main/serv00/alist-freebsd.sh && sh alist-freebsd.sh
 ```
