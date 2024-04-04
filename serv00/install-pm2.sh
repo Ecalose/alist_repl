@@ -12,7 +12,7 @@ echo
 echo "更多应用部署请参照 https://blog.rappit.site/ "
 echo
 echo
-ecoh
+echo
 echo "欢迎加入 QQ 群一同学习探讨：738386033 "
 echo
 echo
